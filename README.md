@@ -1,7 +1,7 @@
 # Setting up a lab environment with vscode for c programming language
 
 ## Requrements
-1. Windows OS, Mac, Linux
+1. Windows OS
 2. Stable Internt Connection
 
 ### About VsCode
