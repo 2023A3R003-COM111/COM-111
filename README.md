@@ -18,7 +18,7 @@ MinGW is a collection of open-source development tools for Windows that includes
 6. After installation complete click on `Continue`. MinGW installer manager will open itself, now right click on `mingw32-base` form the package list and select `Mark for Installaion`.
 7. Now from menubar click on `Installation` and select `Apply changes`, a prompt will pop up, select `Apply`. This will install latest GNU base binaries. After Installion completes click on `Close` and quit the Manager.
 8. After Successfully installing MinGW we also need to export the directory(to the `PATH` variable) where MinGW binaries are installed.
-9. Search for `Edit the system environment variables`, open it and click on `Environment`, Select `Path` variable and click `Edit > New` and add the location of binaries where you you installed MinGW, which in our case is default to `C:\MinGW\bin`. After adding click `OK > OK > OK`.
+9. Search for `Edit the system environment variables`, open it and click on `Environment Variables...` and click `Edit > New` and add the location of binaries where you you installed MinGW, which in our case is default to `C:\MinGW\bin`. After adding click `OK > OK > OK`.
 10. VsCode and MinGw is Successfully installed on your systems.
 
 ## Extension Requred for vscode
