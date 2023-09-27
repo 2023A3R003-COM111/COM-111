@@ -1,4 +1,5 @@
 # Setting up a lab environment with vscode for c programming language
+<img src="https://github.com/2023A3R003-COM111/COM-111/blob/main/res/VSCode.png">
 
 ## Requirements
 1. Windows OS
@@ -24,6 +25,7 @@ MinGW is a collection of open-source development tools for Windows that includes
 ## Extension Requred for vscode
 1. C/C++ Extension Pack
 2. Code Runner
+<img src="https://github.com/2023A3R003-COM111/COM-111/blob/main/res/Extensions%20required.png">
 
 ## Recomended Settings
 #### Enabling "Run in Terminal"
@@ -42,3 +44,4 @@ int main(){
 ```
 Now click on Run button on Top-Right corner.
 Your Program will run and output "Hello, World!" into the Output tab.
+<img src="https://github.com/2023A3R003-COM111/COM-111/blob/main/res/Running%20first%20program.png">
