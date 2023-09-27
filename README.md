@@ -28,3 +28,17 @@ MinGW is a collection of open-source development tools for Windows that includes
 ## Recomended Settings
 #### Enabling "Run in Terminal"
 Click on Setting(or CTR+,) form left bottom bar and select `Settings > Extensions > Run Code Configuration` and serach for `Run in Terminal` and enable it. This will run your code in linux like terminal which will give you more control over your vscode.
+
+## Runing you first code
+**Writing Hello world in C**<br>
+Copy the following code into the vscode editor and save it.
+```
+#include <stido.h>
+
+int main(){
+  printf("Hello, World!\n");
+  return 0;
+}
+```
+Now click on Run button on Top-Right corner.
+Your Program will run and output "Hello, World!" into the Output tab.
