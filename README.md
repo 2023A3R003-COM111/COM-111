@@ -1,6 +1,6 @@
 # Setting up a lab environment with vscode for c programming language
 
-## Requrements
+## Requirements
 1. Windows OS
 2. Stable Internt Connection
 
@@ -11,9 +11,9 @@ VSCode (Visual Studio Code) is a powerful Integrated Development Environment (ID
 MinGW is a collection of open-source development tools for Windows that includes the GNU Compiler Collection(GCC) and other essential utilities from GNU softwares.
 
 ## Procedure
-1. Download vscode installer form official website, and run the installer with `administrator` permisions.
+1. Download [vscode](https://code.visualstudio.com/download) installer form official website, and run the installer with `administrator` permisions.
 2. Accept the license agreement and click on `Next > Next > Install`. After Installation successfully complete click on `Finish`.
-4. Download mingw installer form sourceforge, and run the installer with `administrator` permisions.
+4. Download [mingw](ceforge.net/projects/mingw/) installer form sourceforge, and run the installer with `administrator` permisions.
 5. Then click on `Install > Continue`. This will install latest version of mingw installer manager.
 6. After installation complete click on `Continue`. MinGW installer manager will open itself, now right click on `mingw32-base` and select `Mark for Installaion`.
 7. Now form menu bar click on `Installation` and select `Apply changes`, a prompt will pop up, select `Apply`. This will install latest GNU base binaries. After Installion completes click on `Close` and quit the Manager.
