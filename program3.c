@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+// Compile with -lm
 
 void main(){
 	// Program to find Euclidean distance between two point in x and y axis.
